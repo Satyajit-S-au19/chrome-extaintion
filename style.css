@@ -1,0 +1,33 @@
+
+body{
+    margin: 0;
+    padding: 10px;
+    
+}
+
+
+
+
+input{
+   width: 300px; 
+   /* padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 10px; */
+   padding: 10px 10px;
+   border: 1px solid #5f9341;
+   box-sizing: border-box;
+   margin-bottom: 5px;
+}
+button{
+    background-color: #5f9341;
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    border: 1px solid #5f9341;
+
+}
+#box{
+    background-color: #5f9341;
+    height: 10px;
+    width: 20px;
+}
